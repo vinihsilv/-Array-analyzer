@@ -1,6 +1,5 @@
-let array: number[] = [42, 17, 8, 33, 5, 99, 23];
+let array: number[] = [-42, 17, -8, 33, -5, 99, -23];
 let aux: number = 0;
-let tamanho_array: number = array.length;
 function Retornar_terceiro_menor_maior(array: number[]): number[]{ 
 let array_final: number[] = []
 for(let i=0;i < array.length;i++){

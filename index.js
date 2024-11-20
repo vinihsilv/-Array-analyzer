@@ -1,4 +1,4 @@
-var array = [42, 17, 8, 33, 5, 99, 23];
+var array = [-42, 17, -8, 33, -5, 99, -23];
 var aux = 0;
 var tamanho_array = array.length;
 function Retornar_terceiro_menor_maior(array) {
